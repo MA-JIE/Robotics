@@ -8,3 +8,7 @@
 #### A*算法在拓扑地图内的搜索
 ![Astar](https://github.com/MA-JIE/Robotics/blob/master/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/img/Astar5.png)<br>
 ![Astar](https://github.com/MA-JIE/Robotics/blob/master/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/img/Astar6.png)<br>
+#### A*算法在栅格地图中的应用
+![Astar](https://github.com/MA-JIE/Robotics/blob/master/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/img/Astar7.png)<br>
+![Astar](https://github.com/MA-JIE/Robotics/blob/master/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/img/Astar8.png)<br>
+![Astar](https://github.com/MA-JIE/Robotics/blob/master/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/img/Astar9.png)<br>
